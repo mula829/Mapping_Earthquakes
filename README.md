@@ -1,3 +1,3 @@
 # Mapping_Earthquakes
 
-<img src="Mapping_Earthquakes/analysis/dark.png" width="700">
+<img src="analysis/dark.png" width="700">
